@@ -1,0 +1,14 @@
+\\mac\home\documents\visual studio 2015\Projects\VendingMachine\VendingMachine.Repository\bin\Debug\VendingMachine.Repository.dll
+\\mac\home\documents\visual studio 2015\Projects\VendingMachine\VendingMachine.Repository\bin\Debug\VendingMachine.Repository.pdb
+\\mac\home\documents\visual studio 2015\Projects\VendingMachine\VendingMachine.Repository\obj\Debug\VendingMachine.Repository.csprojResolveAssemblyReference.cache
+\\mac\home\documents\visual studio 2015\Projects\VendingMachine\VendingMachine.Repository\obj\Debug\VendingMachine.Repository.dll
+\\mac\home\documents\visual studio 2015\Projects\VendingMachine\VendingMachine.Repository\obj\Debug\VendingMachine.Repository.pdb
+\\mac\home\documents\visual studio 2015\Projects\VendingMachine\VendingMachine.Repository\bin\Debug\VendingMachine.Domain.dll
+\\mac\home\documents\visual studio 2015\Projects\VendingMachine\VendingMachine.Repository\bin\Debug\VendingMachine.Domain.pdb
+C:\Users\Alessandro\Documents\Visual Studio 2015\Projects\VendingMachine\VendingMachine.Repository\bin\Debug\VendingMachine.Repository.dll
+C:\Users\Alessandro\Documents\Visual Studio 2015\Projects\VendingMachine\VendingMachine.Repository\bin\Debug\VendingMachine.Repository.pdb
+C:\Users\Alessandro\Documents\Visual Studio 2015\Projects\VendingMachine\VendingMachine.Repository\bin\Debug\VendingMachine.Domain.dll
+C:\Users\Alessandro\Documents\Visual Studio 2015\Projects\VendingMachine\VendingMachine.Repository\bin\Debug\VendingMachine.Domain.pdb
+C:\Users\Alessandro\Documents\Visual Studio 2015\Projects\VendingMachine\VendingMachine.Repository\obj\Debug\VendingMachine.Repository.csprojResolveAssemblyReference.cache
+C:\Users\Alessandro\Documents\Visual Studio 2015\Projects\VendingMachine\VendingMachine.Repository\obj\Debug\VendingMachine.Repository.dll
+C:\Users\Alessandro\Documents\Visual Studio 2015\Projects\VendingMachine\VendingMachine.Repository\obj\Debug\VendingMachine.Repository.pdb
