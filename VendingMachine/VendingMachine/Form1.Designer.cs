@@ -247,7 +247,7 @@
             // ptb10Dollars
             // 
             this.ptb10Dollars.Image = global::VendingMachine.Properties.Resources._10dollars;
-            this.ptb10Dollars.Location = new System.Drawing.Point(883, 22);
+            this.ptb10Dollars.Location = new System.Drawing.Point(814, 22);
             this.ptb10Dollars.Name = "ptb10Dollars";
             this.ptb10Dollars.Size = new System.Drawing.Size(243, 179);
             this.ptb10Dollars.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
@@ -258,7 +258,7 @@
             // ptb5Dollars
             // 
             this.ptb5Dollars.Image = global::VendingMachine.Properties.Resources._5dollars;
-            this.ptb5Dollars.Location = new System.Drawing.Point(567, 22);
+            this.ptb5Dollars.Location = new System.Drawing.Point(518, 22);
             this.ptb5Dollars.Name = "ptb5Dollars";
             this.ptb5Dollars.Size = new System.Drawing.Size(243, 179);
             this.ptb5Dollars.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
@@ -269,7 +269,7 @@
             // ptb2Dollars
             // 
             this.ptb2Dollars.Image = global::VendingMachine.Properties.Resources._2dollars;
-            this.ptb2Dollars.Location = new System.Drawing.Point(296, 22);
+            this.ptb2Dollars.Location = new System.Drawing.Point(265, 22);
             this.ptb2Dollars.Name = "ptb2Dollars";
             this.ptb2Dollars.Size = new System.Drawing.Size(182, 170);
             this.ptb2Dollars.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
@@ -352,7 +352,7 @@
             // 
             this.label4.AutoSize = true;
             this.label4.Font = new System.Drawing.Font("Microsoft Sans Serif", 14F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label4.Location = new System.Drawing.Point(624, 180);
+            this.label4.Location = new System.Drawing.Point(572, 180);
             this.label4.Name = "label4";
             this.label4.Size = new System.Drawing.Size(41, 44);
             this.label4.TabIndex = 10;
@@ -363,7 +363,7 @@
             this.panel8.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
             this.panel8.Controls.Add(this.lblCokePrice);
             this.panel8.Controls.Add(this.ptbCoke);
-            this.panel8.Location = new System.Drawing.Point(418, 36);
+            this.panel8.Location = new System.Drawing.Point(365, 36);
             this.panel8.Name = "panel8";
             this.panel8.Size = new System.Drawing.Size(341, 317);
             this.panel8.TabIndex = 5;
@@ -372,7 +372,7 @@
             // 
             this.lblCokePrice.AutoSize = true;
             this.lblCokePrice.Font = new System.Drawing.Font("Microsoft Sans Serif", 14F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblCokePrice.Location = new System.Drawing.Point(239, 142);
+            this.lblCokePrice.Location = new System.Drawing.Point(237, 142);
             this.lblCokePrice.Name = "lblCokePrice";
             this.lblCokePrice.Size = new System.Drawing.Size(41, 44);
             this.lblCokePrice.TabIndex = 7;
@@ -381,7 +381,7 @@
             // ptbCoke
             // 
             this.ptbCoke.Image = global::VendingMachine.Properties.Resources.coke_can;
-            this.ptbCoke.Location = new System.Drawing.Point(26, 19);
+            this.ptbCoke.Location = new System.Drawing.Point(23, 19);
             this.ptbCoke.Name = "ptbCoke";
             this.ptbCoke.Size = new System.Drawing.Size(175, 277);
             this.ptbCoke.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
@@ -395,7 +395,7 @@
             this.panel7.Controls.Add(this.label3);
             this.panel7.Controls.Add(this.lblWaterPrice);
             this.panel7.Controls.Add(this.ptbWater);
-            this.panel7.Location = new System.Drawing.Point(825, 36);
+            this.panel7.Location = new System.Drawing.Point(734, 36);
             this.panel7.Name = "panel7";
             this.panel7.Size = new System.Drawing.Size(330, 317);
             this.panel7.TabIndex = 4;
@@ -404,7 +404,7 @@
             // 
             this.label3.AutoSize = true;
             this.label3.Font = new System.Drawing.Font("Microsoft Sans Serif", 14F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label3.Location = new System.Drawing.Point(198, 142);
+            this.label3.Location = new System.Drawing.Point(196, 142);
             this.label3.Name = "label3";
             this.label3.Size = new System.Drawing.Size(41, 44);
             this.label3.TabIndex = 9;
@@ -414,7 +414,7 @@
             // 
             this.lblWaterPrice.AutoSize = true;
             this.lblWaterPrice.Font = new System.Drawing.Font("Microsoft Sans Serif", 14F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblWaterPrice.Location = new System.Drawing.Point(228, 142);
+            this.lblWaterPrice.Location = new System.Drawing.Point(224, 142);
             this.lblWaterPrice.Name = "lblWaterPrice";
             this.lblWaterPrice.Size = new System.Drawing.Size(41, 44);
             this.lblWaterPrice.TabIndex = 8;
@@ -446,7 +446,7 @@
             // 
             this.label5.AutoSize = true;
             this.label5.Font = new System.Drawing.Font("Microsoft Sans Serif", 14F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label5.Location = new System.Drawing.Point(177, 143);
+            this.label5.Location = new System.Drawing.Point(169, 143);
             this.label5.Name = "label5";
             this.label5.Size = new System.Drawing.Size(41, 44);
             this.label5.TabIndex = 11;
@@ -456,7 +456,7 @@
             // 
             this.lblSpritePrice.AutoSize = true;
             this.lblSpritePrice.Font = new System.Drawing.Font("Microsoft Sans Serif", 14F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblSpritePrice.Location = new System.Drawing.Point(214, 142);
+            this.lblSpritePrice.Location = new System.Drawing.Point(201, 142);
             this.lblSpritePrice.Name = "lblSpritePrice";
             this.lblSpritePrice.Size = new System.Drawing.Size(41, 44);
             this.lblSpritePrice.TabIndex = 6;

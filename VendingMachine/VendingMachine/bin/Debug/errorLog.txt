@@ -1,2 +1,3 @@
 Class: frmPanel -- Method: addAmount -- Date: [2016-Jul-30 14:55:00.993(-04:00)] -- Exception: Input string was not in a correct format.
 Class: frmPanel -- Method: addAmount -- Date: [2016-Jul-30 14:55:12.039(-04:00)] -- Exception: Input string was not in a correct format.
+Class: frmInventory -- Method: saveItem -- Date: [2016-Jul-30 22:49:46.503(-04:00)] -- Exception: Object reference not set to an instance of an object.

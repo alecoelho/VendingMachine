@@ -90,6 +90,7 @@
             // 
             // cmbItem
             // 
+            this.cmbItem.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
             this.cmbItem.FormattingEnabled = true;
             this.cmbItem.Location = new System.Drawing.Point(157, 22);
             this.cmbItem.Name = "cmbItem";
