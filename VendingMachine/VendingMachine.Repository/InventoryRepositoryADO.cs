@@ -11,7 +11,7 @@ namespace VendingMachine.Repository
         private Context context;
         private string strQuery = string.Empty;
 
-        private void Insert(Inventory invent)
+        private int Insert(Inventory invent)
         {
             strQuery = " INSERT INTO Inventory (Name, Quantity, Price) ";
             strQuery += string.Format(" VALUES ('{0}',{1},{2})",
@@ -20,11 +20,11 @@ namespace VendingMachine.Repository
 
             using (context = new Context())
             {
-                context.ExecuteCommand(strQuery);
+                return context.ExecuteCommand(strQuery);
             }
         }
 
-        private void Update(Inventory invent)
+        private int Update(Inventory invent)
         {
             strQuery = " UPDATE Inventory SET ";
             strQuery += string.Format(" Name = '{0}',", invent.Name.ToString());
@@ -34,24 +34,24 @@ namespace VendingMachine.Repository
 
             using (context = new Context())
             {
-                context.ExecuteCommand(strQuery);
+                return context.ExecuteCommand(strQuery);
             }
         }
 
-        public void Save(Inventory invent)
+        public int Save(Inventory invent)
         {
             if (invent.Id > 0)
-                Update(invent);
+                return Update(invent);
             else
-                Insert(invent);
+                return Insert(invent);
         }
 
-        public void Delete(Inventory invent)
+        public int Delete(Inventory invent)
         {
             using (context = new Context())
             {
-                strQuery = string.Format(" DELETE FROM Inventory WHERE Id = {0)", invent.Id.ToString());
-                context.ExecuteCommand(strQuery);
+                strQuery = string.Format(" DELETE FROM Inventory WHERE Id = {0}", invent.Id.ToString());
+                return context.ExecuteCommand(strQuery);
             }
         }
 

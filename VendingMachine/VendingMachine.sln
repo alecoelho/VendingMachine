@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VendingMachine.Repository",
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VendingMachine.ErrorHandling", "VendingMachine.ErrorHandling\VendingMachine.ErrorHandling.csproj", "{2995DD87-E33C-428C-85FE-B70EB80A22DB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VendingMachine.Test", "VendingMachine.Test\VendingMachine.Test.csproj", "{07CFB46D-606F-468B-91A1-3FB4E7FC0F5C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{2995DD87-E33C-428C-85FE-B70EB80A22DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2995DD87-E33C-428C-85FE-B70EB80A22DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2995DD87-E33C-428C-85FE-B70EB80A22DB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{07CFB46D-606F-468B-91A1-3FB4E7FC0F5C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07CFB46D-606F-468B-91A1-3FB4E7FC0F5C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{07CFB46D-606F-468B-91A1-3FB4E7FC0F5C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{07CFB46D-606F-468B-91A1-3FB4E7FC0F5C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

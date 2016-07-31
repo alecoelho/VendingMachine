@@ -13,7 +13,7 @@ namespace VendingMachine.Repository
             myConn.Open();    
         }
 
-        public void ExecuteCommand(string strQuery)
+        public int ExecuteCommand(string strQuery)
         {
             var cmdCommand = new SqlCommand
             {
@@ -22,7 +22,7 @@ namespace VendingMachine.Repository
                 Connection = myConn
             };
 
-            cmdCommand.ExecuteNonQuery();
+            return cmdCommand.ExecuteNonQuery();
         }
 
         public SqlDataReader ExecuteCommandWithReturn(string strQuery)

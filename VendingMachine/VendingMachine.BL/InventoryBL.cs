@@ -13,14 +13,14 @@ namespace VendingMachine.BL
             repo = repository;
         }
 
-        public void Save(Inventory invent)
+        public int Save(Inventory invent)
         {
-            repo.Save(invent);
+            return repo.Save(invent);
         }
 
-        public void Delete(Inventory invent)
+        public int Delete(Inventory invent)
         {
-            repo.Delete(invent);
+            return repo.Delete(invent);
         }
 
         public IEnumerable<Inventory> ListAll()

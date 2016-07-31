@@ -1,5 +1,4 @@
 C:\Users\Alessandro\Documents\Visual Studio 2015\Projects\VendingMachine\VendingMachine.ErrorHandling\bin\Debug\VendingMachine.ErrorHandling.dll
 C:\Users\Alessandro\Documents\Visual Studio 2015\Projects\VendingMachine\VendingMachine.ErrorHandling\bin\Debug\VendingMachine.ErrorHandling.pdb
-C:\Users\Alessandro\Documents\Visual Studio 2015\Projects\VendingMachine\VendingMachine.ErrorHandling\obj\Debug\VendingMachine.ErrorHandling.csprojResolveAssemblyReference.cache
 C:\Users\Alessandro\Documents\Visual Studio 2015\Projects\VendingMachine\VendingMachine.ErrorHandling\obj\Debug\VendingMachine.ErrorHandling.dll
 C:\Users\Alessandro\Documents\Visual Studio 2015\Projects\VendingMachine\VendingMachine.ErrorHandling\obj\Debug\VendingMachine.ErrorHandling.pdb

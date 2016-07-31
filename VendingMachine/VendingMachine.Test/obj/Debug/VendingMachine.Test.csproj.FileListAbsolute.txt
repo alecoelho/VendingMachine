@@ -1,0 +1,16 @@
+C:\Users\Alessandro\Documents\Visual Studio 2015\Projects\VendingMachine\VendingMachine.Test\bin\Debug\Data\Inventory.mdf
+C:\Users\Alessandro\Documents\Visual Studio 2015\Projects\VendingMachine\VendingMachine.Test\bin\Debug\Data\Inventory_log.ldf
+C:\Users\Alessandro\Documents\Visual Studio 2015\Projects\VendingMachine\VendingMachine.Test\bin\Debug\VendingMachine.Test.dll.config
+C:\Users\Alessandro\Documents\Visual Studio 2015\Projects\VendingMachine\VendingMachine.Test\bin\Debug\VendingMachine.Test.dll
+C:\Users\Alessandro\Documents\Visual Studio 2015\Projects\VendingMachine\VendingMachine.Test\bin\Debug\VendingMachine.Test.pdb
+C:\Users\Alessandro\Documents\Visual Studio 2015\Projects\VendingMachine\VendingMachine.Test\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Alessandro\Documents\Visual Studio 2015\Projects\VendingMachine\VendingMachine.Test\bin\Debug\VendingMachine.BL.dll
+C:\Users\Alessandro\Documents\Visual Studio 2015\Projects\VendingMachine\VendingMachine.Test\bin\Debug\VendingMachine.Domain.dll
+C:\Users\Alessandro\Documents\Visual Studio 2015\Projects\VendingMachine\VendingMachine.Test\bin\Debug\VendingMachine.Repository.dll
+C:\Users\Alessandro\Documents\Visual Studio 2015\Projects\VendingMachine\VendingMachine.Test\bin\Debug\VendingMachine.BL.pdb
+C:\Users\Alessandro\Documents\Visual Studio 2015\Projects\VendingMachine\VendingMachine.Test\bin\Debug\VendingMachine.Domain.pdb
+C:\Users\Alessandro\Documents\Visual Studio 2015\Projects\VendingMachine\VendingMachine.Test\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\Users\Alessandro\Documents\Visual Studio 2015\Projects\VendingMachine\VendingMachine.Test\bin\Debug\VendingMachine.Repository.pdb
+C:\Users\Alessandro\Documents\Visual Studio 2015\Projects\VendingMachine\VendingMachine.Test\obj\Debug\VendingMachine.Test.csprojResolveAssemblyReference.cache
+C:\Users\Alessandro\Documents\Visual Studio 2015\Projects\VendingMachine\VendingMachine.Test\obj\Debug\VendingMachine.Test.dll
+C:\Users\Alessandro\Documents\Visual Studio 2015\Projects\VendingMachine\VendingMachine.Test\obj\Debug\VendingMachine.Test.pdb
